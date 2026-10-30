@@ -1,3 +1,4 @@
+# SPDX-License-Identifier: MIT
 """Python client for Pepkio oligo-qc-bench."""
 
 from .client import PepkioClient
